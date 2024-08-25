@@ -10,14 +10,14 @@ global.email = 'sam@sec.live'
 global.github = 'https://github.com/prabathLK/PRABATH-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '94762280384'
+global.sudo = process.env.SUDO || '94741026371'
 global.devs = '94762280384';
 global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
 module.exports = {
   botname: process.env.BOT_NAME || '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨',
   ownername:process.env.OWNER_NAME || 'PRABATH',
-  sessionName: process.env.SESSION_ID || 'PUT-HERE',
+  sessionName: process.env.SESSION_ID || 'iF1mTJwT#x9uStl_Ia2-VwAj0FN_hrsXuP_T9Rn6eDB8mIuG_M5k',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false',
   packname: process.env.PACK_INFO.split(";")[1] || 'Name',
